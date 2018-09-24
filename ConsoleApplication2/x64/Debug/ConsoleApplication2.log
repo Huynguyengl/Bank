@@ -1,0 +1,10 @@
+﻿  Bank.cpp
+e:\bank\consoleapplication2\bank.cpp(91): warning C4099: 'StandardClass': type name first seen using 'struct' now seen using 'class'
+  e:\bank\consoleapplication2\bank.cpp(91): note: see declaration of 'StandardClass'
+e:\bank\consoleapplication2\bank.cpp(128): warning C4099: 'TermClass': type name first seen using 'struct' now seen using 'class'
+  e:\bank\consoleapplication2\bank.cpp(128): note: see declaration of 'TermClass'
+e:\bank\consoleapplication2\bank.cpp(325): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\bank\consoleapplication2\bank.cpp(735): warning C4553: '==': result of expression not used; did you intend '='?
+e:\bank\consoleapplication2\bank.cpp(773): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+e:\bank\consoleapplication2\bank.cpp(781): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  ConsoleApplication2.vcxproj -> E:\Bank\x64\Debug\ConsoleApplication2.exe

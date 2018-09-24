@@ -1,0 +1,10 @@
+﻿  ConsoleApplication2.cpp
+c:\users\huyng\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(91): warning C4099: 'StandardClass': type name first seen using 'struct' now seen using 'class'
+  c:\users\huyng\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(91): note: see declaration of 'StandardClass'
+c:\users\huyng\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(128): warning C4099: 'TermClass': type name first seen using 'struct' now seen using 'class'
+  c:\users\huyng\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(128): note: see declaration of 'TermClass'
+c:\users\huyng\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(325): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\huyng\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(735): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\huyng\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(773): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\huyng\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(781): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  ConsoleApplication2.vcxproj -> C:\Users\huyng\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe
